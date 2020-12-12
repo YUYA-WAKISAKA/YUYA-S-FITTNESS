@@ -83,12 +83,11 @@ nav li{
 
 .tp_page {
   background-image: url("https://github.com/YUYA-WAKISAKA/YUYA-S-FITTNESS/blob/main/top_img.jpeg?raw=true");
-  background-size: cover;
-  height: 450px;
-  width: 100%;
-  text-align: center;
-  padding-top: 0px;
-  margin-top: 0;
+  background-repet:no-repeat;
+  background-position:center center;
+  background-size:contain;
+  width:100%;
+  height:400px;
 }
 
 .tp_page h1{
